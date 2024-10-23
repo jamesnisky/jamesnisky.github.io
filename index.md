@@ -3,7 +3,14 @@ layout: default
 title: Home
 ---
 
-# James Nisky
+# Heading 1
 
-Growth Marketing Specialist, Account Based Marketing | Enterprise AI, Cloud, Data, Analytics, SaaS, Platforms, Innovation, Emerging Technology
+Details
 
+# Heading 2
+
+Details
+
+# Heading 3
+
+Details
